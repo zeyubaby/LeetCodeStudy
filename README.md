@@ -1,0 +1,2 @@
+# LeetCodeStudy
+some notes
