@@ -1,6 +1,6 @@
 # LeetCodeStudy
-some notes for  [程序员面试金典（第 6 版)](https://leetcode.cn/problem-list/xb9lfcwi/)
-01.xx 为字符串题目
+some notes for  [程序员面试金典（第 6 版)](https://leetcode.cn/problem-list/xb9lfcwi/)  
+01.xx 为**字符串**题目
 
 ## 位运算
 
